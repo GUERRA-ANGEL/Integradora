@@ -12,3 +12,7 @@ El objetivo es lograr una capacitación completa para operadores/choferes de tra
 ## Propuesta del Proyecto
 En este proyecto se desarrollará un sistema que recolecte información relacionada con la conducción segura, leyes de tránsito, etc. Con esta información se creará un sistema que incluya material como exámenes, cuestionarios y material didáctico, con el fin de brindar una orientación completa al conductor de transporte público.
 
+<p align="center">
+    <img src="MICRO-INFO.png">
+</p>
+
