@@ -1,0 +1,6 @@
+/* Generar nombres únicos para los archivos */
+$comprobante_domicilio_nombre_final = uniqid() . "." . $comprobante_domicilio_extension;
+$cartas_recomendacion_nombre_final = uniqid() . "." . $cartas_recomendacion_extension;
+$ine_nombre_final = uniqid() . "." . $ine_extension;
+$curp_nombre_final = uniqid() . "." . $curp_extension;
+$licencia_nombre_final = uniqid() . "." . $licencia_extension;

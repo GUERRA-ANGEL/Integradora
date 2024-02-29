@@ -1,0 +1,65 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+body {
+    background-image: url(imagenes/Fondo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 100hv;
+}
+
+ /* Cambiar el color del fondo de las tablas */
+ table {
+    background-color: #8111b9;
+    color: black;
+}
+
+/* Cambiar el color del fondo del menú */
+.navbar {
+    background-color: #6C63FF;
+}
+
+/* Cambiar el color del enlace del menú */
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+/* Cambiar el color del enlace del menú al pasar el mouse */
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(95, 156, 255, 0.75);
+}
+
+/* Cambiar el color de los botones en la tabla */
+.table .btn-primary {
+    background-color: #2105a8;
+    border-color: #000000;
+}
+
+/* Cambiar el color de los botones en la tabla al pasar el mouse */
+.table .btn-primary:hover {
+    background-color: #7B69E9;
+    border-color: #7B69E9;
+}
+
+/* Cambiar el color de los botones en el formulario */
+.btn-primary {
+    background-color: #6C63FF;
+    border-color: #6C63FF;
+}
+
+/* Cambiar el color de los botones en el formulario al pasar el mouse */
+.btn-primary:hover {
+    background-color: #7B69E9;
+    border-color: #7B69E9;
+}
+
